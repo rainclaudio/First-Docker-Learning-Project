@@ -4,7 +4,7 @@
 
 Este proyecto es un ejemplo práctico para entender los conceptos básicos de Docker. Consiste en una aplicación simple que lista y crea "chanchitos felices" utilizando una API construida en Node.js y una base de datos MongoDB.
 
-Para más detalles y un tutorial guiado, visitar: [Ver video](https://www.youtube.com/watch?v=4Dko5W96WHg&ab_channel=HolaMundo).
+Para más detalles y un tutorial guiado, visitar: [Aprende Docker ahora! curso completo gratis desde cero! - By Nicolás Schürmann, HolaMundo](https://www.youtube.com/watch?v=4Dko5W96WHg&ab_channel=HolaMundo).
 
 ## Archivos en el Proyecto
 
