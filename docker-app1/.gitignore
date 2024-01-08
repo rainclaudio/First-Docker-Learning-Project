@@ -1,0 +1,39 @@
+# Dependencias
+/node_modules
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Directorios de runtime
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# Directorio de desarrollo
+.env
+.env.test
+
+# Builds
+build/
+dist/
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+
+# Archivos de IDE/editor
+.vscode/
+*.swp
+*.swo
+*.sublime-workspace
+*.sublime-project
+
+# Archivos de configuración específicos del proyecto
+/config/*.json
+
+# Docker ignore
+docker-compose*.yml
+Dockerfile*
