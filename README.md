@@ -1,10 +1,6 @@
 # Learning Project: Docker Basics
 
-## Introducción
-
 Este proyecto es un ejemplo práctico para entender los conceptos básicos de Docker. Consiste en una aplicación simple que lista y crea "chanchitos felices" utilizando una API construida en Node.js y una base de datos MongoDB.
-
-Para más detalles y un tutorial guiado, visitar: [Aprende Docker ahora! curso completo gratis desde cero! - By Nicolás Schürmann, HolaMundo](https://www.youtube.com/watch?v=4Dko5W96WHg&ab_channel=HolaMundo).
 
 ## Archivos en el Proyecto
 
@@ -53,3 +49,6 @@ Este proceso automatizado facilita la implementación y gestión de aplicaciones
 1. Construir las imágenes: Ejecutar `docker-compose -f docker-compose-dev.yml build` para el entorno de desarrollo.
 2. Iniciar los servicios: Ejecutar `docker-compose -f docker-compose-dev.yml up` para levantar la aplicación y la base de datos.
 3. Acceder a la aplicación: Navegar a `localhost:3000` para interactuar con la aplicación.
+
+
+Para más detalles y un tutorial guiado, visitar: [Aprende Docker ahora! curso completo gratis desde cero!](https://www.youtube.com/watch?v=4Dko5W96WHg&ab_channel=HolaMundo).
